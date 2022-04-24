@@ -1,0 +1,4 @@
+#Mon Apr 18 15:31:02 BRT 2022
+base.0=/home/riikudou/Documentos/Udemy/Curso Flutter CodBR/projects/project_question/project_question/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
